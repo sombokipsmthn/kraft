@@ -1,0 +1,211 @@
+ <!-- ==================== Start Navgition ==================== -->
+    <div id="navi" class="topnav">
+        <div class="container-fluid">
+            <div class="logo">
+                <a href="#0"><img src="../vie-dark/img/logo-light.png" alt=""></a>
+            </div>
+            <div class="menu-icon">
+                <span class="icon">
+                    <i></i>
+                    <i></i>
+                </span>
+                <span class="text" data-splitting>Menu</span>
+            </div>
+        </div>
+    </div>
+    <div class="hamenu">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9 col-md-8">
+                    <div class="menu-links">
+                        <ul class="main-menu">
+                            <li>
+                                <div class="o-hidden">
+                                    <span class="link dmenu"><span class="nm">01.</span>Home <i
+                                            class="fas fa-angle-right"></i></span>
+                                </div>
+                                <div class="sub-menu">
+                                    <ul>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <span class="sub-link back"><i class="pe-7s-angle-left"></i> Go
+                                                    Back</span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/index.html" class="sub-link"><span class="nm">01.</span>Main
+                                                    Home</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/index2.html" class="sub-link"><span
+                                                        class="nm">02.</span>Creative Agency</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../../../../index.html" class="sub-link"><span
+                                                        class="nm">03.</span>Digital Agency</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/index4.html" class="sub-link"><span
+                                                        class="nm">04.</span>Business One Page</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/index3.html" class="sub-link"><span
+                                                        class="nm">05.</span>Corporate Business</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/index6.html" class="sub-link"><span class="nm">05.</span>Modern
+                                                    Agency</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/index7.html" class="sub-link"><span
+                                                        class="nm">05.</span>Freelancer</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/index8.html" class="sub-link"><span
+                                                        class="nm">05.</span>Architecture</a>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="o-hidden">
+                                    <a href="../vie-dark/about.html" class="link"><span class="nm">02.</span>About Us</a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="o-hidden">
+                                    <span class="link dmenu"><span class="nm">03.</span>Works <i
+                                            class="fas fa-angle-right"></i></span>
+                                </div>
+                                <div class="sub-menu">
+                                    <ul>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <span class="sub-link back"><i class="pe-7s-angle-left"></i> Go
+                                                    Back</span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/showcase.html" class="sub-link"><span
+                                                        class="nm">01.</span>ShowCase Parallax</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/showcase4.html" class="sub-link"><span
+                                                        class="nm">02.</span>ShowCase Carousel</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/showcase3.html" class="sub-link"><span
+                                                        class="nm">03.</span>ShowCase Circle</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/works.html" class="sub-link"><span
+                                                        class="nm">04.</span>Portfolio Masonry</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/works2.html" class="sub-link"><span
+                                                        class="nm">05.</span>Portfolio Filtering</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/works3.html" class="sub-link"><span
+                                                        class="nm">06.</span>Portfolio Gallery</a>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="o-hidden">
+                                    <span class="link dmenu"><span class="nm">04.</span>Blogs <i
+                                            class="fas fa-angle-right"></i></span>
+                                </div>
+                                <div class="sub-menu">
+                                    <ul>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <span class="sub-link back"><i class="pe-7s-angle-left"></i> Go
+                                                    Back</span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/blog.html" class="sub-link"><span class="nm">01.</span>Blog
+                                                    Standerd</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/blog-list.html" class="sub-link"><span
+                                                        class="nm">02.</span>Blog List</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/blog-grid.html" class="sub-link"><span
+                                                        class="nm">03.</span>Blog Grid</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="o-hidden">
+                                                <a href="../vie-dark/blog-details.html" class="sub-link"><span
+                                                        class="nm">04.</span>Blog Details</a>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="o-hidden">
+                                    <a href="../vie-dark/contact.html" class="link"><span class="nm">05.</span>Contact</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4">
+                    <div class="cont-info">
+                        <div class="item">
+                            <h6>Phone :</h6>
+                            <p>+03 762-2367-723</p>
+                        </div>
+                        <div class="item">
+                            <h6>Address :</h6>
+                            <p>541 Melville Ave, Palo Alto, CA 94301,
+                                ask@ohio.colabr.io</p>
+                        </div>
+                        <div class="item">
+                            <h6>Email :</h6>
+                            <p><a href="#0">Vie_website@gmail.com</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ==================== End Navgition ==================== -->
